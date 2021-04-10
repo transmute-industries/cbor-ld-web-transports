@@ -87,7 +87,7 @@ function App() {
         <Grid item sm={6}>
           <QR
             data={state.base32EncodedCborLd || ""}
-            logo={{ image: "/logo192.png" }}
+            logo={{ image: window.location + "/logo192.png" }}
             fgColor={"#594aa8"}
             height={blockSize}
             width={blockSize}
