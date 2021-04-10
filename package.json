@@ -1,6 +1,7 @@
 {
   "name": "cbor-ld-web-transports",
   "version": "0.1.0",
+  "homepage": "https://transmute-industries.github.io/cbor-ld-web-transports/",
   "private": true,
   "dependencies": {
     "@bloomprotocol/qr-react": "^3.1.0",
