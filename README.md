@@ -1,8 +1,8 @@
-# CBOR-LD Web Transports Demo
+# CBOR-LD Web Transports
 
 Semantic compression enables open standards based interoperability.
 
-## QRCode
+## QR Code
 
 Base32 Encoded CBOR-LD can be used to transport data via QR Codes.
 
