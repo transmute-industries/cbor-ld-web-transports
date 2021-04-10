@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cbor-ld-web-transports/static/css/main.309772dc.chunk.css",
-    "main.js": "/cbor-ld-web-transports/static/js/main.2230a968.chunk.js",
-    "main.js.map": "/cbor-ld-web-transports/static/js/main.2230a968.chunk.js.map",
+    "main.js": "/cbor-ld-web-transports/static/js/main.1ffce4ee.chunk.js",
+    "main.js.map": "/cbor-ld-web-transports/static/js/main.1ffce4ee.chunk.js.map",
     "runtime-main.js": "/cbor-ld-web-transports/static/js/runtime-main.fb7ed1ec.js",
     "runtime-main.js.map": "/cbor-ld-web-transports/static/js/runtime-main.fb7ed1ec.js.map",
     "static/js/2.75e38548.chunk.js": "/cbor-ld-web-transports/static/js/2.75e38548.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fb7ed1ec.js",
     "static/js/2.75e38548.chunk.js",
     "static/css/main.309772dc.chunk.css",
-    "static/js/main.2230a968.chunk.js"
+    "static/js/main.1ffce4ee.chunk.js"
   ]
 }
